@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "gpio.h": "c",
+        "rcc.h": "c",
+        "std_types.h": "c",
+        "stm32f4xx.h": "c",
+        "nvic.h": "c",
+        "utils.h": "c",
+        "bit_operations.h": "c"
+    }
+}
